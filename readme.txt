@@ -1,3 +1,4 @@
-git is a distriguted version control system
+git is a distributed version control system
 git is free software distributed under the GPL
-my name is candycc
+git has a mutable index called stage
+git tracks changes
